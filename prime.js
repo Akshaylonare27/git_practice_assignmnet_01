@@ -9,6 +9,7 @@ let counter=0;
     if(counter==2){
        return true
     }
+
      return false
 
 }
@@ -20,3 +21,4 @@ if (ans==true){
 else{
    console.log("Not Prime")
 }
+     
