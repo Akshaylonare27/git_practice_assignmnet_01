@@ -9,13 +9,16 @@ let counter=0;
     if(counter==2){
        return true
     }
-      return false
+
+     return false
+
 }
 
 let ans=prime(7);
-if(ans==true){
-  console.log("prime")
+if (ans==true){
+ console.log("Prime");
 }
 else{
-  console.log("Not Prime")
+   console.log("Not Prime")
 }
+     
